@@ -2,5 +2,5 @@
 
 
 snkae game project made with python using turtle package 
-in this project i've used differnet terms like abstraction and inhertince
-also I've learned how to get Inputs from key from my keyboard and sync it to the move on the sceen 
+in this project ihave used differnet terms like abstraction and inhertince
+also I have learned how to get Inputs from key from my keyboard and sync it to the move on the sceen.
